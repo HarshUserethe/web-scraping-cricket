@@ -1,0 +1,353 @@
+{
+    "teams": [
+      {
+        "team": "New Zealand",
+        "squad": {
+          "captain": "Kane Williamson",
+          "players": [
+            "Kane Williamson",
+            "Mark Chapman",
+            "Devon Conway",
+            "Lockie Ferguson",
+            "Matt Henry",
+            "Mitchell Santner",
+            "Daryl Mitchell",
+            "Rachin Ravindra",
+            "Jimmy Neesham",
+            "Glenn Phillips",
+            "Finn Allen",
+            "Trent Boult",
+            "Michael Bracewell",
+            "Ish Sodhi",
+            "Tim Southee"
+          ],
+          "reserve": "Ben Sears"
+        },
+        "group": "C",
+        "first_game": "June 7 against Afghanistan"
+      },
+      {
+        "team": "South Africa",
+        "squad": {
+          "captain": "Aiden Markram",
+          "players": [
+            "Aiden Markram",
+            "David Miller",
+            "Heinrich Klaasen",
+            "Quinton de Kock",
+            "Kagiso Rabada",
+            "Bjorn Fortuin",
+            "Ryan Rickelton",
+            "Keshav Maharaj",
+            "Ottneil Baartman",
+            "Reeza Hendricks",
+            "Gerald Coetzee",
+            "Anrich Nortje",
+            "Tabraiz Shamsi",
+            "Marco Jansen",
+            "Tristan Stubbs"
+          ],
+          "reserves": ["Nandre Burger", "Lungi Ngidi"]
+        },
+        "first_game": "June 3 against Sri Lanka"
+      },
+      {
+        "team": "England",
+        "squad": {
+          "captain": "Jos Buttler",
+          "players": [
+            "Jos Buttler",
+            "Moeen Ali",
+            "Jofra Archer",
+            "Jonny Bairstow",
+            "Sam Curran",
+            "Harry Brook",
+            "Ben Duckett",
+            "Liam Livingstone",
+            "Phil Salt",
+            "Tom Hartley",
+            "Will Jacks",
+            "Chris Jordan",
+            "Adil Rashid",
+            "Reece Topley",
+            "Mark Wood"
+          ]
+        },
+        "group": "A",
+        "first_game": "June 4 against Scotland"
+      },
+      {
+        "team": "India",
+        "squad": {
+          "captain": "Rohit Sharma",
+          "players": [
+            "Rohit Sharma",
+            "Hardik Pandya",
+            "Virat Kohli",
+            "Yashasvi Jaiswal",
+            "Suryakumar Yadav",
+            "Shivam Dube",
+            "Rishabh Pant",
+            "Sanju Samson",
+            "Ravindra Jadeja",
+            "Axar Patel",
+            "Jasprit Bumrah",
+            "Kuldeep Yadav",
+            "Yuzvendra Chahal",
+            "Arshdeep Singh",
+            "Mohammed Siraj"
+          ],
+          "reserves": ["Shubman Gill", "Rinku Singh", "Avesh Khan", "Khaleel Ahmed"]
+        },
+        "first_game": "June 7 against Ireland"
+      },
+      {
+        "team": "Afghanistan",
+        "squad": {
+          "captain": "Rashid Khan",
+          "players": [
+            "Rashid Khan",
+            "Azmatullah Omarzai",
+            "Najibullah Zadran",
+            "Mohammad Nabi",
+            "Rahmanullah Gurbaz",
+            "Ibrahim Zadran",
+            "Mohammad Ishaq",
+            "Gulbadin Naib",
+            "Karim Janat",
+            "Nangyal Kharoti",
+            "Naveen-ul-Haq",
+            "Fazalhaq Farooqi",
+            "Mujeeb Ur Rahman",
+            "Noor Ahmad",
+            "Fareed Ahmad Malik"
+          ],
+          "reserves": ["Sediq Atal", "Hazratullah Zazai", "Saleem Safi"]
+        },
+        "first_game": "June 3 against Uganda"
+      },
+      {
+        "team": "Australia",
+        "squad": {
+          "captain": "Mitchell Marsh",
+          "players": [
+            "Mitchell Marsh",
+            "Tim David",
+            "Glenn Maxwell",
+            "David Warner",
+            "Cameron Green",
+            "Marcus Stoinis",
+            "Ashton Agar",
+            "Pat Cummins",
+            "Josh Hazlewood",
+            "Travis Head",
+            "Josh Inglis",
+            "Mitchell Starc",
+            "Nathan Ellis",
+            "Matthew Wade",
+            "Adam Zampa"
+          ]
+        },
+        "first_game": "June 5 against Oman"
+      },
+      {
+        "team": "Nepal",
+        "squad": {
+          "captain": "Rohit Paudel",
+          "players": [
+            "Rohit Paudel",
+            "Dipendra Singh Airee",
+            "Aasif Sheikh",
+            "Lalit Rajbanshi",
+            "Karan KC",
+            "Gulshan Jha",
+            "Anil Kumar Sah",
+            "Kushal Malla",
+            "Sompal Kami",
+            "Pratis GC",
+            "Sundeep Jora",
+            "Abinash Bohara",
+            "Sagar Dhakal",
+            "Kamal Singh Airee"
+          ]
+        },
+        "first_game": "June 4 against Netherlands"
+      },
+      {
+        "team": "Oman",
+        "squad": {
+          "captain": "Aqib Ilyas",
+          "players": [
+            "Aqib Ilyas",
+            "Zeeshan Maqsood",
+            "Ayaan Khan",
+            "Shoaib Khan",
+            "Mohammad Nadeem",
+            "Kashyap Prajapati",
+            "Pratik Athavale",
+            "Naseem Khushi",
+            "Mehran Khan",
+            "Kaleemullah",
+            "Fayyaz Butt",
+            "Shakeel Ahmad",
+            "Bilal Khan",
+            "Rafiullah"
+          ]
+        },
+        "group": "B",
+        "first_game": "June 3 against Namibia"
+      },
+      {
+        "team": "Canada",
+        "squad": {
+          "captain": "Saad Zafar",
+          "players": [
+            "Saad Zafar",
+            "Aaron Johnson",
+            "Dilon Heyliger",
+            "Dilpreet Bajwa",
+            "Harsh Thaker",
+            "Jeremy Gordon",
+            "Junaid Siddiqui",
+            "Kaleem Sana",
+            "Kanwarpal Tathgur",
+            "Navneet Dhaliwal",
+            "Nicholas Kirton",
+            "Pargat Singh",
+            "Ravinderpal Singh",
+            "Rayyankhan Pathan",
+            "Shreyas Movva"
+          ],
+          "travelling_reserve": "Tajinder Singh",
+          "reserves": ["Aaditya Varadharajan", "Aamar Khalid", "Jatinder Matharu", "Parveen Kumar"]
+        },
+        "group": "A",
+        "first_game": "June 1 against United States of America"
+      },
+      {
+        "team": "West Indies",
+        "squad": {
+          "captain": "Rovman Powell",
+          "players": [
+            "Rovman Powell",
+            "Alzarri Joseph",
+            "Johnson Charles",
+            "Roston Chase",
+            "Shimron Hetmyer",
+            "Jason Holder",
+            "Shai Hope",
+            "Akeal Hosein",
+            "Shamar Joseph",
+            "Brandon King",
+            "G. Motie",
+            "Nicholas Pooran",
+            "Andre Russell",
+            "Sherfane Rutherford",
+            "Romario Shepherd"
+          ]
+        },
+        "first_game": "Not specified"
+      },
+      {
+        "team": "United States of America (USA)",
+        "squad": {
+          "captain": "Monank Patel",
+          "players": [
+            "Monank Patel",
+            "Aaron Jones",
+            "Steven Taylor",
+            "Saurabh Netravalkar",
+            "Corey Anderson",
+            "Jessy Singh",
+            "Harmeet Singh",
+            "Noshtush Kenjige",
+            "Andries Gous",
+            "Shayan Jahangir",
+            "Ali Khan",
+            "Shadley Van Schalkwyk",
+            "Nitish Kumar",
+            "Nisarg Patel",
+            "Milind Kumar"
+          ],
+          "reserve": ["Juanoy Drysdale", "Gajanand Singh", "Yasir Mohammad"]
+        },
+        "first_game": "Not specified"
+      },
+      {
+        "team": "Uganda",
+        "squad": {
+          "captain": "Brian Masaba",
+          "players": [
+            "Brian Masaba",
+            "Cosmas Kyewuta",
+            "Riazat Ali Shah",
+            "Dinesh Nakrani",
+            "Fred Achelam",
+            "Simon Ssesazi",
+            "Roger Mukasa",
+            "Kenneth Waiswa",
+            "Frank Nsubuga",
+            "Henry Ssenyondo",
+            "Alpesh Ramjani",
+            "Bilal Hassun",
+            "Robinson Obuya",
+            "Juma Miyaji",
+            "Ronak Patel"
+          ],
+          "reserves": ["Innocent Mwebaze", "Ronald Lutaaya"]
+        },
+        "group": "C",
+        "first_game": "June 3 against Afghanistan"
+      },
+      {
+        "team": "Scotland",
+        "squad": {
+          "captain": "Richie Berrington",
+          "players": [
+            "Richie Berrington",
+            "Matthew Cross",
+            "Brad Currie",
+            "Michael Leask",
+            "Chris Greaves",
+            "Mark Watt",
+            "George Munsey",
+            "Brad Wheal",
+            "Jack Jarvis",
+            "Michael Jones",
+            "Brandon McMullen",
+            "Oli Hairs",
+            "Safyaan Sharif",
+            "Chris Sole",
+            "Charlie Tear"
+          ]
+        },
+        "first_game": "June 4 against England"
+      },
+      {
+        "team": "Ireland",
+        "squad": {
+          "captain": "Paul Stirling",
+          "players": [
+            "Paul Stirling",
+            "Andrew Balbirnie",
+            "Josh Little",
+            "Lorcan Tucker",
+            "Barry McCarthy",
+            "Curtis Campher",
+            "Mark Adair",
+            "Ross Adair",
+            "Gareth Delany",
+            "George Dockrell",
+            "Graham Hume",
+            "Neil Rock",
+            "Harry Tector",
+            "Ben White",
+            "Craig Young"
+          ]
+        },
+        "group": "A",
+        "first_game": "June 5 against India"
+      }
+    ]
+  }
+  
